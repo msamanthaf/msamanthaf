@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Marie Samantha</h1>
-<h3 align="center">A Vancouver-based software developer and ML enthusiast from Indonesia</h3>
-
+<h1 align="center">  <samp>&gt; Hey There👋, I'm
+                <b><a target="_blank" href="https://alsiam.com">Marie Samantha</a></b>
+        </samp>
+<h3 align="center">「 A Vancouver-based software developer and ML enthusiast from Indonesia 」</h3>
 <img src="pixelsam.png" align="right" width="200" height="180"/>
 
+- Currently a second-year Computer Science student at <a href="http://www.unb.br">The University of British Columbia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
 - 📄 Get to know more about my experiences through my [Resume](https://drive.google.com/file/d/10P-r2oP9y1EzFj_X4hdWO_bZME_RivA7/view?usp=sharing) !
