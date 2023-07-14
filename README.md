@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marie Samantha</h1>
 <h3 align="center">A Vancouver-based software developer and ML enthusiast from Indonesia</h3>
 
-<img src="https://live.staticflickr.com/65535/53044770280_9b240e0160_t.jpg" align="right" width="150" height="130"/>
+<img src="pixelsam.png" align="right" width="200" height="180"/>
 
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
