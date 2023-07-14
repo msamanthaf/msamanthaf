@@ -10,7 +10,7 @@
 
 - 📄 Get to know more about my experiences through my [Resume](https://drive.google.com/file/d/10P-r2oP9y1EzFj_X4hdWO_bZME_RivA7/view?usp=sharing) !
 
-- ⚡ Fun fact: **I am a lefty! :point_left: and I sometimes do digital art!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
+- ⚡ Fun fact: **I am a lefty :point_left: and I sometimes do digital art!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
