@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
-- 📄 Get to know more about my experiences through my [Resume](https://drive.google.com/file/d/10P-r2oP9y1EzFj_X4hdWO_bZME_RivA7/view?usp=sharing) !
+- 📄 Get to know more about my experiences through my [Resume](https://github.com/msamanthaf/resume/blob/main/Resume%20Marie%20Samantha%20Fidelia.pdf) !
 
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
