@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msamanthaf&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&langs_count=8&bg_color=DEG,1F3B4D,100328&text_color=F5FBFF&ring_color=53D8B9&title_color=DABFDE" alt="msamanthaf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msamanthaf&show_icons=true&locale=en&bg_color=DEG,1F3B4D,100328&text_color=F5FBFF&ring_color=53D8B9&title_color=DABFDE&rank_icon=percentile" alt="msamanthaf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msamanthaf&show_icons=true&locale=en&bg_color=DEG,1F3B4D,100328&text_color=F5FBFF&ring_color=53D8B9&title_color=DABFDE&rank_icon=github" alt="msamanthaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msamanthaf&theme=dracula" alt="msamanthaf" /></p>
