@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
-- 📄 Get to know more about my experiences through my <a href="https://online.flippingbook.com/view/556565610/#zoom=true" target="_blank" download>Resume!</a>
+- 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1CD2bNqcDcJedm6nBb6IITECQe2kuluBN/view?usp=sharing)
 
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
