@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
-- 📄 Get to know more about my experiences through my [Resume](assets/resume_marie_samantha.pdf)
-!
+- 📄 Get to know more about my experiences through my <a href="path-to-your-pdf.pdf" target="_blank" download>Resume!</a>
 
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
