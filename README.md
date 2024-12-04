@@ -4,11 +4,11 @@
 <h3 align="center">「 A Vancouver-based software engineer from Indonesia 」</h3>
 <img src="pixelsam.png" align="right" width="200" height="180"/>
 
-- Currently a second-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">The University of British Columbia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- Currently a third-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">The University of British Columbia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 👨‍💻 All of my projects are available at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
-- 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1bNw86EYeEkUsowvuY4C790BfxjidzCba/view?usp=sharing)
+- 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1RqucbF4Oew7_ProuJ-erSDchIPsHieRH/view?usp=sharing)
 
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
