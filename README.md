@@ -2,7 +2,7 @@
                                             I'm 
                 <b><a target="_blank" href="https://mariesamantha.dev/">Marie Samantha</a></b>
         </samp>
-<h3 align="center">「 A Vancouver-based software engineer from Indonesia 」</h3>
+<h3 align="center">「 A 🇨🇦 Vancouver-based software engineer from Indonesia 🇮🇩 」</h3>
 <img src="pixelsam.png" align="right" width="200" height="180"/>
 
 - Currently a third-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">The University of British Columbia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
