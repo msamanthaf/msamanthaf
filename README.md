@@ -8,7 +8,7 @@
 
 - 👨‍💻 Get to know more about me at [https://mariesamantha.dev/](https://mariesamantha.dev/)
 
-- 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1RqucbF4Oew7_ProuJ-erSDchIPsHieRH/view?usp=sharing)
+- 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1TIZFxz0PRjXxFpw4iomZZ6HK6kCoYium/view?usp=sharing)
 
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
