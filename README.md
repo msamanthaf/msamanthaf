@@ -6,7 +6,7 @@
 
 - Currently a third-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">UBC</a> 
 
-- 👨‍💻 Get to know more about me at [https://mariesamantha.dev/](https://mariesamantha.dev/)
+- 👨‍💻 Get to know more about me at [immersive.mariesamantha.dev](https://immersive.mariesamantha.dev/)
 
 - 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1TIZFxz0PRjXxFpw4iomZZ6HK6kCoYium/view?usp=sharing)
 
