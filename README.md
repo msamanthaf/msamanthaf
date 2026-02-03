@@ -16,20 +16,16 @@
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/msamanthaf" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/msamanthaf" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/msamanthaf" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="40"/>
+  </a>
 
-<a href="https://github.com/msamanthaf" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-      <a align="right" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&fontFamily=Google%20Sans&preferLogin=false">
-        <img
-          alt="msamanthaf's GitHub Stats" align="right"
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/msamanthaf?cardType=level&theme=dracula&fontFamily=Google%20Sans&preferLogin=false"
-        />
-      </a>
 <h3 align="left">Top Languages:</h3>
+<a align="right" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&fontFamily=Google%20Sans%20Flex&preferLogin=false">    
+  <img  align="right" alt="msamanthaf's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/msamanthaf?cardType=level&theme=dracula&fontFamily=Google%20Sans%20Flex&preferLogin=false" />  </a>
     <td valign="top" align="left" width="50%">
       <p>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
