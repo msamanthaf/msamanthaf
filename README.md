@@ -10,7 +10,7 @@
 
 <img src="pixelsam.png" align="right" width="200" height="180"/>
 
-- Currently a third-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">UBC</a> 
+- 🎓 Currently a third-year Computer Science student at <a href="https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/">UBC</a> 
 - 👨‍💻 Get to know more about me at [immersive.mariesamantha.dev](https://immersive.mariesamantha.dev/)
 - 📄 Get to know more about my experiences through my [Resume!](https://drive.google.com/file/d/1TIZFxz0PRjXxFpw4iomZZ6HK6kCoYium/view?usp=sharing)
 - ⚡ Fun fact: **I am a lefty :point_left: and I do digital art in my spare time!** (My profile picture is a drawing of my avatar from my favorite childhood video game!)
